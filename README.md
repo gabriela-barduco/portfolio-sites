@@ -12,7 +12,7 @@ Site institucional do próprio estúdio. Posicionamento premium, com foco em des
 - **Stack:** HTML, CSS, JavaScript
 - **Site ao vivo:** [gabileoestudio.digital](https://gabileoestudio.digital/)
 
-![GL Studio Digital](screenshots/gl-studio-01-home.jpg)
+![GL Studio Digital](gl-studio-01-home.jpg)
 
 ---
 
@@ -24,9 +24,9 @@ Site institucional para uma concessionária de carros usados, focado em transpar
 - **Stack:** HTML, CSS, JavaScript
 - **Site ao vivo:** [autoprime.gabileoestudio.digital](https://autoprime.gabileoestudio.digital/)
 
-![Hero](screenshots/autoprime-01-hero.jpg)
-![O problema](screenshots/autoprime-02-problema.jpg)
-![Diferenciais](screenshots/autoprime-03-diferenciais.jpg)
+![Hero](autoprime-01-hero.jpg)
+![O problema](autoprime-02-problema.jpg)
+![Diferenciais](autoprime-03-diferenciais.jpg)
 
 ---
 
@@ -38,9 +38,9 @@ E-commerce de moda feminina, com identidade editorial (quiet luxury). Projeto co
 - **Stack:** HTML, CSS, JavaScript
 - **Site ao vivo:** [bellaluna.gabileoestudio.digital](https://bellaluna.gabileoestudio.digital/)
 
-![Hero](screenshots/bellaluna-01-hero.jpg)
-![Novidades](screenshots/bellaluna-02-novidades.jpg)
-![Coleções](screenshots/bellaluna-03-colecoes.jpg)
+![Hero](bellaluna-01-hero.jpg)
+![Novidades](bellaluna-02-novidades.jpg)
+![Coleções](bellaluna-03-colecoes.jpg)
 
 ---
 
